@@ -4,9 +4,7 @@ Live Project Link: [https://gridbalance.vercel.app/](https://gridbalance.vercel.
 
 ## Description
 
-Bob owns a refurbished battery bank composed of second-life lithium-ion batteries, which are available for energy producers and the grid to store surplus energy and withdraw during high demand periods. While Bob provides a valuable service by offering energy storage, he faces difficulties in managing payments from users who store and withdraw energy from his battery bank, as well as the payments he owes to the grid and other stakeholders.
-
-This solution leverages the energy movement records stored on the GridBalance ledger to determine reconciled payments that Bob should receive for storing energy and the total amount he needs to pay for energy withdrawals. By using smart meter data that accurately tracks energy movement, the system calculates precise settlements between Bob, the energy users, and the grid.
+GridBalance Ledger is a decentralized platform that leverages smart meter data to automate settlements for energy storage operations. Designed for battery bank owners like Bob, the system tracks energy deposits and withdrawals in real time, calculating precise payments owed by and to all stakeholders—energy producers, consumers, and the grid. By ensuring transparent, tamper-proof transactions on the Solana blockchain, the platform eliminates manual reconciliation and payment errors, streamlining energy storage economics and incentivizing grid support.
 ## Features
 
 - **Battery Bank Initialisation**: Anyone with extra battery banks initialse themselves.
