@@ -356,7 +356,7 @@ export default function Home() {
       <div className='flex justify-between items-center px-8'>
 
       <h1 className="text-3xl font-bold mb-6 flex items-center text-blue-400">
-        <Battery className="mr-2" /> UEI Energy Ledger
+        <Battery className="mr-2" /> GridBalance Energy Ledger
       </h1>
       <div className="mb-4">
         <WalletMultiButton className="!bg-blue-600 hover:!bg-blue-700 !text-white font-bold py-2 px-4 rounded" />
