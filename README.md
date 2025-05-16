@@ -1,12 +1,12 @@
-# UEI-Reconciliation Ledger
+# GridBalance: Automated Ledger for Energy Storage Transactions
 
-Live Project Link: [https://uei-reconciliation.vercel.app/](https://uei-reconciliation.vercel.app/)
+Live Project Link: [https://gridbalance.vercel.app/](https://gridbalance.vercel.app/)
 
 ## Description
 
 Bob owns a refurbished battery bank composed of second-life lithium-ion batteries, which are available for energy producers and the grid to store surplus energy and withdraw during high demand periods. While Bob provides a valuable service by offering energy storage, he faces difficulties in managing payments from users who store and withdraw energy from his battery bank, as well as the payments he owes to the grid and other stakeholders.
 
-This solution leverages the energy movement records stored on the Unified Energy Interface (UEI) ledger to determine reconciled payments that Bob should receive for storing energy and the total amount he needs to pay for energy withdrawals. By using smart meter data that accurately tracks energy movement, the system calculates precise settlements between Bob, the energy users, and the grid.
+This solution leverages the energy movement records stored on the GridBalance ledger to determine reconciled payments that Bob should receive for storing energy and the total amount he needs to pay for energy withdrawals. By using smart meter data that accurately tracks energy movement, the system calculates precise settlements between Bob, the energy users, and the grid.
 ## Features
 
 - **Battery Bank Initialisation**: Anyone with extra battery banks initialse themselves.
